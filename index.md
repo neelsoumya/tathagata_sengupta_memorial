@@ -62,7 +62,7 @@ Pictures of Tathagata taken by our beloved teacher Ms. Achala Satsangi
 
 ![Pictures](tatha_solo_achala_mam.JPG)
 
-![Pictures](tatha_dav.JPG)
+![Pictures](tatha_dav.jpg)
 
 # Contact
 
