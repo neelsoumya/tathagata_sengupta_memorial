@@ -63,6 +63,11 @@ Pictures of Tathagata taken by our beloved teacher Ms. Achala Satsangi
 ![Pictures](tatha_solo_achala_mam.JPG)
 
 
+# Contact
+
+If you want add a message or a picture, please contact Soumya Banerjee neel dot soumya at gmail dot com
+
+
 You can use the [editor on GitHub](https://github.com/neelsoumya/tathagata_sengupta_memorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
