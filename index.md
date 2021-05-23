@@ -60,6 +60,8 @@ Pictures of Tathagata taken by our beloved teacher Ms. Achala Satsangi
 
 ![Pictures](tatha_school_3.JPG)
 
+![Pictures](tatha_solo_achala_mam.JPG)
+
 
 You can use the [editor on GitHub](https://github.com/neelsoumya/tathagata_sengupta_memorial/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
